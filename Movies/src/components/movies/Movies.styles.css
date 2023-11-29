@@ -1,0 +1,15 @@
+.imageContainer {
+  border: solid;
+  height: 360px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.imageBackground {
+  height: 360px;
+  position: absolute;
+  top: 0;
+  opacity: 0.5;
+}
