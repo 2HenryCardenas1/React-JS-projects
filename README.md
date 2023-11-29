@@ -1,2 +1,1 @@
-# React-JS-proyects
-# React-JS-proyects
+# React-JS-projects
